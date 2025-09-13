@@ -12,10 +12,10 @@ body{
     display:flex;
     justify-content:center;
     align-items:center;
-    background:url("C:\Users\admin\Downloads\dandelion.jpg");
+    background: url("images/astronuat.jpg");
     background-size:cover;
 }
-.calculator{
+.Calculator{
     padding:20px;
     border:2px solid #000;
     border-radius:16px;
@@ -64,4 +64,5 @@ button:hover{
 .operator{
     color:#f67c14;
 }
+
 
